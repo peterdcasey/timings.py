@@ -1,5 +1,5 @@
 """
-    Simple timing example.
+    Simple timing example..
 """
 
 def foo(x):
